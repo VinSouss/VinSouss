@@ -18,18 +18,23 @@
     <img align="center" alt="RobotFramework" height="32" src="https://img.icons8.com/color/48/broken-robot.png"/>
 </div>
 
-### Ferramentas:
+### IDE:
 <body>
   <div style="display: inline_block">
-    <img align="center" alt="vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-    <img align="center" height="30" width="30" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Git-Logo-social-media-those-icons-flat-those-icons.png"/> 
-    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-               
+    <img align="center" alt="vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">           
   </div>
 </body>        
- 
-### Outros Conhecimentos:
+
+### Ferramentas Gerenciamento de Projetos: 
+  <div style="display: inline_block">
+    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+  </div>
+
+### Versionamento: 
+<img align="center" height="30" width="30" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Git-Logo-social-media-those-icons-flat-those-icons.png"/> 
+
+### Banco de Dados:
 <div>
   <img lign="center" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />       
